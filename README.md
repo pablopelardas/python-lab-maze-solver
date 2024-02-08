@@ -18,7 +18,7 @@ python -m tkinter
 ```
     
 
-## Deployment
+## Run the project
 
 To deploy this project run
 
